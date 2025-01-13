@@ -10,3 +10,4 @@ Share Functionality: Easily share quotes on social media.
 Technologies Used
 React JS
 HTML/CSS
+![Screenshot (39)](https://github.com/user-attachments/assets/27530983-7ba0-40b0-9f82-784380592e46)
